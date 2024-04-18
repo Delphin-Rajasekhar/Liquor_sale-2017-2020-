@@ -46,7 +46,7 @@ This consistent performance underscores the significance of Z Wine Gallery Impor
 
 ### Liquor Analysis based on Date and Item Type 
 
-![](https://github.com/Delphin-Rajasekhar/Liquor_sale_2017-2020/commit/81f22824c1b69af0534e516752d452dec736941a)
+![](https://github.com/Delphin-Rajasekhar/Liquor_sale_2017-2020/blob/main/Liquor%20Analysis%20based%20on%20Date%20and%20Item%20Type.png)
 
 Every year consistently sees wine, beer, and liquor occupying the top three spots in sales, with minimal differences between them. The leading spot alternates between wine, beer, and liquor, demonstrating their competitive edge. 
 
